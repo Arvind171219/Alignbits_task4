@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="json-20131018">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Alignbits/Mapping jars/Mapping jars/json-20131018.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Alignbits/Mapping jars/Mapping jars/aspose-pdf-19.8.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Alignbits/Mapping jars/Mapping jars/ipworksssl-0.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Alignbits/Mapping jars/Mapping jars/gson-2.8.5.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Alignbits/Mapping jars/Mapping jars/aspose-cells-19.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Alignbits/Mapping jars/Mapping jars/ipworksssl-0.0.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
